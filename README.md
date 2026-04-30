@@ -35,7 +35,7 @@ This is not an Airbus simulator. But the physics is real, the aerodynamic data i
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/6dof-flight-dynamics
+git clone https://github.com/sameer-labs/6dof-flight-dynamics
 cd 6dof-flight-dynamics
 python -m venv venv
 source venv/bin/activate
